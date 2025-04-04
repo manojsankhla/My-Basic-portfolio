@@ -1,2 +1,1 @@
-# My-Basic-portfolio
-Basic portfolio with some animation
+# MY PORTFOLIO
